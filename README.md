@@ -1,2 +1,2 @@
-# myappsample
-Sample app for tutorial
+MyApp
+this is my App
